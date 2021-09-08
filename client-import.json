@@ -1,0 +1,5 @@
+{
+  "clientId": "keycloack_poc",
+  "enabled": true,
+  "bearerOnly": true
+}
